@@ -5,6 +5,6 @@
  3.UNDERSTANDING THE STATISTICS FOR DATA SCIENCE<br />
  4.PREDICTIVE MODELING AND BASICS OF MACHINE LEARNING<br />
  5.FINAL PROJECT<br />
-   *The **final project** has been posted to this repository, which includes both the **problem description** and the **solution.** * <br />
+   *The **final project** has been posted to this repository, which includes both the **problem description** and the **solution.*** <br />
 
 ![](Certificate.png)
